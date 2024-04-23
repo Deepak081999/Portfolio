@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/rajas.jpg",
+    img: "./rajas.jpg",
     title: "Artisan Market online Ecommerce",
     description:
       "The objectives of the thesis was to make a successful ecommerce of handicraft that were manufacture in Rajasthan .",
