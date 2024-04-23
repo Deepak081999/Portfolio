@@ -7,7 +7,7 @@ const Header = ({ toggle }) => {
       <Nav>
         <Logo to="/">
           <img
-            src="/logo1.jpg"
+            src="./logo1.jpg"
             alt="logo"
           />
         </Logo>

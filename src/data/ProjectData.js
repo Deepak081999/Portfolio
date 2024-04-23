@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/shop-g.jpg",
+    img: "./shop-g.jpg",
     title: "shop-genie online Ecommerce",
     description:
       "The Project is related to E-Commerce website. Ecommerce is a method of buying and selling goods and services online. The definition of ecommerce business can also include tactics like affiliate marketing",
@@ -19,7 +19,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/login1.jpg",
+    img: "./login1.jpg",
     title: "Matrimonial website",
     description:
       "Anything matrimonial has something to do with marriage or married people. A formal way to say 'wedding,' for example, would be 'matrimonial event.'",

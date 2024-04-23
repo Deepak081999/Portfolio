@@ -3,7 +3,7 @@ import { FaYoutube } from "react-icons/fa";
 // --------------------------------------- Project List
 export const Educationschool = [
     {
-        img: "/poder.jpg",
+        img: "./poder.jpg",
         name: "Panabai Ramnath Podar Sr. Sec. School Nawalgarh Jhunjhunu",
         title: "10th & 12th",
         percentage: "both 51.60% ",
@@ -12,7 +12,7 @@ export const Educationschool = [
         linke_url: "",
     },
     {
-        img: "/pcollege.jpg",
+        img: "./pcollege.jpg",
         name: "Seth gyaniram banshidhar Podar College Nawalgarh Jhunjhunu",
         title: "BCA (Bachelor of Computer Applications) ",
         jio: "2018 to 2021 ",
@@ -22,7 +22,7 @@ export const Educationschool = [
         linke_url: "",
     },
     {
-        img: "/cmr.jpg",
+        img: "./cmr.jpg",
         name: "CMR Institute of Technology",
         title: "MCA (Master of Computer Applications)",
         jio: "2022 ",
