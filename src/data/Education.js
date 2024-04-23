@@ -8,7 +8,7 @@ export const Educationschool = [
         title: "10th & 12th",
         percentage: "both 51.60% ",
         Website: "https://aptrust.in/",
-        FaYoutube: "",
+        Youtube: "",
         linke_url: "",
     },
     {
@@ -18,7 +18,7 @@ export const Educationschool = [
         jio: "2018 to 2021 ",
         percentage: "73.60%",
         Website: "https://www.podartteducation.in/",
-        FaYoutube: "https://youtu.be/NBsznTMlHvI?si=Ti4XS0-m1wkqjprs",
+        Youtube: "https://youtu.be/NBsznTMlHvI?si=Ti4XS0-m1wkqjprs",
         linke_url: "",
     },
     {
@@ -28,7 +28,7 @@ export const Educationschool = [
         jio: "2022 ",
         percentage: "8.03 CGP",
         Website: "https://www.cmrit.ac.in/",
-        FaYoutube: "https://youtu.be/OOVuqFYvraY?si=uIXtvtb0e14T1MH5",
+        Youtube: "https://youtu.be/OOVuqFYvraY?si=uIXtvtb0e14T1MH5",
         linke_url: "https://www.linkedin.com/school/cmr-institute-of-technology/",
     },
 ];

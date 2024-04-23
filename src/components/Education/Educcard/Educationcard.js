@@ -35,10 +35,10 @@ function Experinencecard() {
                                         Website
                                     </a>
                                 )}
-                                {list.FaYoutube.length > 0 && (
+                                {list.Youtube.length > 0 && (
                                     <a
                                         className="btn SecondaryBtn  btn-shadow"
-                                        href={list.FaYoutube}
+                                        href={list.Youtube}
                                         target="_blank"
                                         rel="noopener noreferrer"
                                     >
