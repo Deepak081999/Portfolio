@@ -1,6 +1,6 @@
 import React from "react";
 import Experinencecard from "./Expcard/expcards";
-function Projects() {
+function Experinence() {
     return (
         <>
             <div className="ProjectWrapper" id="projects">
@@ -13,4 +13,4 @@ function Projects() {
     );
 }
 
-export default Projects;
+export default Experinence;

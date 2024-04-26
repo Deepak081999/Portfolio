@@ -1,11 +1,9 @@
-import { FaYoutube } from "react-icons/fa";
-
 // --------------------------------------- Project List
 export const Educationschool = [
     {
         img: "./poder.jpg",
         name: "Panabai Ramnath Podar Sr. Sec. School Nawalgarh Jhunjhunu",
-        title: "10th & 12th",
+        // title: "10th & 12th",
         percentage: "both 51.60% ",
         Website: "https://aptrust.in/",
         Youtube: "",

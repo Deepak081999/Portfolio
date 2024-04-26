@@ -1,6 +1,6 @@
 import React from "react";
 import Educationcard from "./Educcard/Educationcard";
-function Projects() {
+function Education() {
     return (
         <>
             <div className="ProjectWrapper" id="projects">
@@ -13,4 +13,4 @@ function Projects() {
     );
 }
 
-export default Projects;
+export default Education;
