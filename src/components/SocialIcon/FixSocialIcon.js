@@ -1,5 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
 import styled from "@emotion/styled";
 import ScrollAnimation from "react-animate-on-scroll";
 
@@ -72,6 +72,15 @@ function FixSocialIcon() {
               rel="noopener noreferrer"
             >
               <FaGithub />
+            </a>
+          </li>
+          <li className="item">
+            <a
+              href="https://www.instagram.com/l_b_aniket_3081?igsh=OXJkZ3V6ZGR0aDl3"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FaInstagram />
             </a>
           </li>
         </ul>

@@ -5,7 +5,7 @@ function Experinence() {
         <>
             <div className="ProjectWrapper" id="projects">
                 <div className="Container">
-                    <div className="SectionTitle">Experinence</div>
+                    <div className="SectionTitle">Experiences</div>
                     <Experinencecard />
                 </div>
             </div>
